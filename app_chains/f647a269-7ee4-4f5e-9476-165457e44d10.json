@@ -1,0 +1,8 @@
+{
+  "name": "youxi",
+  "logo": "https://i.imgur.com/PcbF3QD.jpeg",
+  "rpc_url": "http://43.133.43.137:9944",
+  "explorer_url": "http://43.133.43.137:4000",
+  "metrics_endpoint": "http://43.133.43.137:9615/metrics",
+  "id": "f647a269-7ee4-4f5e-9476-165457e44d10"
+}
